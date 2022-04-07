@@ -252,7 +252,7 @@ function BadrinooLib:Window()
 		Tab.BackgroundTransparency = 1.000
 		Tab.Position = UDim2.new(0, 0, 0.13333334, 0)
 		Tab.Size = UDim2.new(0, 48, 0, 24)
-		Tab.Font = Enum.Font.Gotham
+		Tab.Font = Enum.Font.FredokaOne
 		Tab.Text = text
 		Tab.TextColor3 = Color3.fromRGB(195, 195, 195)
 		Tab.TextSize = 14.000
@@ -344,7 +344,7 @@ function BadrinooLib:Window()
 			Button.Position = UDim2.new(0, 0, 0.174999997, 0)
 			Button.Size = UDim2.new(0, 491, 0, 29)
 			Button.AutoButtonColor = false
-			Button.Font = Enum.Font.Gotham
+			Button.Font = Enum.Font.FredokaOne
 			Button.TextColor3 = Color3.fromRGB(195, 195, 195)
 			Button.TextSize = 14.000
 			Button.Text = text
@@ -410,7 +410,7 @@ function BadrinooLib:Window()
 			Toggle.Position = UDim2.new(-0.436928689, 0, 0.696994126, 0)
 			Toggle.Size = UDim2.new(0, 491, 0, 29)
 			Toggle.AutoButtonColor = false
-			Toggle.Font = Enum.Font.Gotham
+			Toggle.Font = Enum.Font.FredokaOne
 			Toggle.Text = ""
 			Toggle.TextColor3 = Color3.fromRGB(195, 195, 195)
 			Toggle.TextSize = 14.000
@@ -426,7 +426,7 @@ function BadrinooLib:Window()
 			Title.BackgroundTransparency = 1.000
 			Title.Position = UDim2.new(0.0244399179, 0, 0.068965517, 0)
 			Title.Size = UDim2.new(0, 1, 0, 24)
-			Title.Font = Enum.Font.Gotham
+			Title.Font = Enum.Font.FredokaOne
 			Title.TextColor3 = Color3.fromRGB(195, 195, 195)
 			Title.TextSize = 14.000
 			Title.TextXAlignment = Enum.TextXAlignment.Left
@@ -506,7 +506,7 @@ function BadrinooLib:Window()
 			Slider.Position = UDim2.new(-0.0217271745, 0, 1.37144423, 0)
 			Slider.Size = UDim2.new(0, 491, 0, 37)
 			Slider.AutoButtonColor = false
-			Slider.Font = Enum.Font.Gotham
+			Slider.Font = Enum.Font.FredokaOne
 			Slider.Text = ""
 			Slider.TextColor3 = Color3.fromRGB(195, 195, 195)
 			Slider.TextSize = 14.000
@@ -521,7 +521,7 @@ function BadrinooLib:Window()
 			Title.BackgroundTransparency = 1.000
 			Title.Position = UDim2.new(0.0203665979, 0, 0.150045857, 0)
 			Title.Size = UDim2.new(0, 0, 0, 24)
-			Title.Font = Enum.Font.Gotham
+			Title.Font = Enum.Font.FredokaOne
 			Title.TextColor3 = Color3.fromRGB(195, 195, 195)
 			Title.TextSize = 14.000
 			Title.TextXAlignment = Enum.TextXAlignment.Left
@@ -555,7 +555,7 @@ function BadrinooLib:Window()
 			Value.BackgroundTransparency = 1.000
 			Value.BorderSizePixel = 0
 			Value.Size = UDim2.new(1, 0, 1, 0)
-			Value.Font = Enum.Font.Gotham
+			Value.Font = Enum.Font.FredokaOne
 			Value.Text = min
 			Value.TextColor3 = Color3.fromRGB(195, 195, 195)
 			Value.TextSize = 14.000
@@ -621,7 +621,7 @@ function BadrinooLib:Window()
 			Dropdown.Position = UDim2.new(-0.436928689, 0, 0.696994126, 0)
 			Dropdown.Size = UDim2.new(0, 491, 0, 29)
 			Dropdown.AutoButtonColor = false
-			Dropdown.Font = Enum.Font.Gotham
+			Dropdown.Font = Enum.Font.FredokaOne
 			Dropdown.Text = ""
 			Dropdown.TextColor3 = Color3.fromRGB(195, 195, 195)
 			Dropdown.TextSize = 14.000
@@ -636,7 +636,7 @@ function BadrinooLib:Window()
 			Title.BackgroundTransparency = 1.000
 			Title.Position = UDim2.new(0.0244399179, 0, 0.068965517, 0)
 			Title.Size = UDim2.new(0, 1, 0, 24)
-			Title.Font = Enum.Font.Gotham
+			Title.Font = Enum.Font.FredokaOne
 			Title.TextColor3 = Color3.fromRGB(195, 195, 195)
 			Title.TextSize = 14.000
 			Title.TextXAlignment = Enum.TextXAlignment.Left
@@ -791,7 +791,7 @@ function BadrinooLib:Window()
 				Option.Position = UDim2.new(0.494680852, 0, 0.147959188, 0)
 				Option.Size = UDim2.new(0, 465, 0, 25)
 				Option.AutoButtonColor = false
-				Option.Font = Enum.Font.Gotham
+				Option.Font = Enum.Font.FredokaOne
 				Option.TextColor3 = Color3.fromRGB(195, 195, 195)
 				Option.TextSize = 14.000
 				Option.Text = v
@@ -894,7 +894,7 @@ function BadrinooLib:Window()
 			Colorpicker.Position = UDim2.new(-0.436928689, 0, 0.696994126, 0)
 			Colorpicker.Size = UDim2.new(0, 491, 0, 29)
 			Colorpicker.AutoButtonColor = false
-			Colorpicker.Font = Enum.Font.Gotham
+			Colorpicker.Font = Enum.Font.FredokaOne
 			Colorpicker.Text = ""
 			Colorpicker.TextColor3 = Color3.fromRGB(195, 195, 195)
 			Colorpicker.TextSize = 14.000
@@ -909,7 +909,7 @@ function BadrinooLib:Window()
 			Title.BackgroundTransparency = 1.000
 			Title.Position = UDim2.new(0.0244399179, 0, 0.068965517, 0)
 			Title.Size = UDim2.new(0, 1, 0, 24)
-			Title.Font = Enum.Font.Gotham
+			Title.Font = Enum.Font.FredokaOne
 			Title.TextColor3 = Color3.fromRGB(195, 195, 195)
 			Title.TextSize = 14.000
 			Title.TextXAlignment = Enum.TextXAlignment.Left
@@ -1015,7 +1015,7 @@ function BadrinooLib:Window()
 			Confirm.Position = UDim2.new(0.760692477, 0, 0.211035922, 0)
 			Confirm.Size = UDim2.new(0, 212, 0, 29)
 			Confirm.AutoButtonColor = false
-			Confirm.Font = Enum.Font.Gotham
+			Confirm.Font = Enum.Font.FredokaOne
 			Confirm.Text = "Confirm"
 			Confirm.TextColor3 = Color3.fromRGB(195, 195, 195)
 			Confirm.TextSize = 14.000
@@ -1031,7 +1031,7 @@ function BadrinooLib:Window()
 			RainbowToggle.Position = UDim2.new(0.760150731, 0, 0.498795807, 0)
 			RainbowToggle.Size = UDim2.new(0, 212, 0, 29)
 			RainbowToggle.AutoButtonColor = false
-			RainbowToggle.Font = Enum.Font.Gotham
+			RainbowToggle.Font = Enum.Font.FredokaOne
 			RainbowToggle.Text = ""
 			RainbowToggle.TextColor3 = Color3.fromRGB(195, 195, 195)
 			RainbowToggle.TextSize = 14.000
@@ -1046,7 +1046,7 @@ function BadrinooLib:Window()
 			RainbowTitle.BackgroundTransparency = 1.000
 			RainbowTitle.Position = UDim2.new(0.0244399179, 0, 0.068965517, 0)
 			RainbowTitle.Size = UDim2.new(0, 1, 0, 24)
-			RainbowTitle.Font = Enum.Font.Gotham
+			RainbowTitle.Font = Enum.Font.FredokaOne
 			RainbowTitle.Text = "Rainbow"
 			RainbowTitle.TextColor3 = Color3.fromRGB(195, 195, 195)
 			RainbowTitle.TextSize = 14.000
@@ -1306,7 +1306,7 @@ function BadrinooLib:Window()
 			Textbox.Position = UDim2.new(-0.0217271745, 0, 1.37144423, 0)
 			Textbox.Size = UDim2.new(0, 491, 0, 37)
 			Textbox.AutoButtonColor = false
-			Textbox.Font = Enum.Font.Gotham
+			Textbox.Font = Enum.Font.FredokaOne
 			Textbox.Text = ""
 			Textbox.TextColor3 = Color3.fromRGB(195, 195, 195)
 			Textbox.TextSize = 14.000
@@ -1321,7 +1321,7 @@ function BadrinooLib:Window()
 			Title.BackgroundTransparency = 1.000
 			Title.Position = UDim2.new(0.0203665979, 0, 0.150045857, 0)
 			Title.Size = UDim2.new(0, 0, 0, 24)
-			Title.Font = Enum.Font.Gotham
+			Title.Font = Enum.Font.FredokaOne
 			Title.TextColor3 = Color3.fromRGB(195, 195, 195)
 			Title.TextSize = 14.000
 			Title.TextXAlignment = Enum.TextXAlignment.Left
@@ -1332,7 +1332,7 @@ function BadrinooLib:Window()
 			TextBox.BackgroundColor3 = Color3.fromRGB(33, 33, 33)
 			TextBox.Position = UDim2.new(0.985743403, 0, 0.108108111, 0)
 			TextBox.Size = UDim2.new(0, 192, 0, 26)
-			TextBox.Font = Enum.Font.Gotham
+			TextBox.Font = Enum.Font.FredokaOne
 			TextBox.Text = ""
 			TextBox.TextColor3 = Color3.fromRGB(195, 195, 195)
 			TextBox.TextSize = 14.000
@@ -1392,7 +1392,7 @@ function BadrinooLib:Window()
 			Bind.Position = UDim2.new(-0.436928689, 0, 0.696994126, 0)
 			Bind.Size = UDim2.new(0, 491, 0, 29)
 			Bind.AutoButtonColor = false
-			Bind.Font = Enum.Font.Gotham
+			Bind.Font = Enum.Font.FredokaOne
 			Bind.Text = ""
 			Bind.TextColor3 = Color3.fromRGB(195, 195, 195)
 			Bind.TextSize = 14.000
@@ -1407,7 +1407,7 @@ function BadrinooLib:Window()
 			Title.BackgroundTransparency = 1.000
 			Title.Position = UDim2.new(0.0244399179, 0, 0.068965517, 0)
 			Title.Size = UDim2.new(0, 1, 0, 24)
-			Title.Font = Enum.Font.Gotham
+			Title.Font = Enum.Font.FredokaOne
 			Title.TextColor3 = Color3.fromRGB(195, 195, 195)
 			Title.TextSize = 14.000
 			Title.TextXAlignment = Enum.TextXAlignment.Left
@@ -1428,7 +1428,7 @@ function BadrinooLib:Window()
 			BindLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 			BindLabel.BackgroundTransparency = 1.000
 			BindLabel.Size = UDim2.new(0, 102, 0, 20)
-			BindLabel.Font = Enum.Font.Gotham
+			BindLabel.Font = Enum.Font.FredokaOne
 			BindLabel.Text = Key
 			BindLabel.TextColor3 = Color3.fromRGB(195, 195, 195)
 			BindLabel.TextSize = 13.000
@@ -1486,7 +1486,7 @@ function BadrinooLib:Window()
 			Label.Position = UDim2.new(0, 0, 0.174999997, 0)
 			Label.Size = UDim2.new(0, 491, 0, 29)
 			Label.AutoButtonColor = false
-			Label.Font = Enum.Font.Gotham
+			Label.Font = Enum.Font.FredokaOne
 			Label.TextColor3 = Color3.fromRGB(195, 195, 195)
 			Label.TextSize = 14.000
 			Label.Text = text
