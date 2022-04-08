@@ -98,7 +98,7 @@ local themeStyles = {
 		Background = Color3.fromRGB(48, 48, 48),
 		Header = Color3.fromRGB(44, 44, 44),
 		TextColor = Color3.fromRGB(255, 255, 255),
-		ElementColor = Color3.fromRGB(52, 74, 95)
+		ElementColor = Color3.fromRGB(53, 53, 53)
 	},
 	Sentinel = {
 		SchemeColor = Color3.fromRGB(230, 35, 69),
